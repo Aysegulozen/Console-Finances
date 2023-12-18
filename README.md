@@ -4,10 +4,10 @@
 Welcome to console-finances! This project is part of my Frontend Bootcamp challenge, where I applied my knowledge of JavaScript syntax, primitive data types, conditional statements, logical comparison operators, arrays, and more to analyze financial records. The goal is to provide insights into a company's financial data.
 
 # Deployed Page:
-console-finances
+[console-finances](https://aysegulozen.github.io/Console-Finances/)
 
 # GitHub Repo:
-console-finances on GitHub
+[github](https://github.com/Aysegulozen/Console-Finances)
 
 # Installation
 To explore this project, open it in your preferred browser, preferably Chrome. Use the browser's developer tools by pressing Option + ⌘ + J and navigate to the 'Console' tab.
